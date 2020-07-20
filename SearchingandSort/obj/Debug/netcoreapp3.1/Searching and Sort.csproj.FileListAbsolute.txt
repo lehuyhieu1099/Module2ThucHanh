@@ -1,0 +1,13 @@
+C:\Users\ADMIN\Desktop\Huy Hiệu\Bài tập thực hành\Searching and Sort\Searching and Sort\bin\Debug\netcoreapp3.1\Searching and Sort.exe
+C:\Users\ADMIN\Desktop\Huy Hiệu\Bài tập thực hành\Searching and Sort\Searching and Sort\bin\Debug\netcoreapp3.1\Searching and Sort.deps.json
+C:\Users\ADMIN\Desktop\Huy Hiệu\Bài tập thực hành\Searching and Sort\Searching and Sort\bin\Debug\netcoreapp3.1\Searching and Sort.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Huy Hiệu\Bài tập thực hành\Searching and Sort\Searching and Sort\bin\Debug\netcoreapp3.1\Searching and Sort.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\Huy Hiệu\Bài tập thực hành\Searching and Sort\Searching and Sort\bin\Debug\netcoreapp3.1\Searching and Sort.dll
+C:\Users\ADMIN\Desktop\Huy Hiệu\Bài tập thực hành\Searching and Sort\Searching and Sort\bin\Debug\netcoreapp3.1\Searching and Sort.pdb
+C:\Users\ADMIN\Desktop\Huy Hiệu\Bài tập thực hành\Searching and Sort\Searching and Sort\obj\Debug\netcoreapp3.1\Searching and Sort.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Huy Hiệu\Bài tập thực hành\Searching and Sort\Searching and Sort\obj\Debug\netcoreapp3.1\Searching and Sort.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Huy Hiệu\Bài tập thực hành\Searching and Sort\Searching and Sort\obj\Debug\netcoreapp3.1\Searching and Sort.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Huy Hiệu\Bài tập thực hành\Searching and Sort\Searching and Sort\obj\Debug\netcoreapp3.1\Searching and Sort.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Huy Hiệu\Bài tập thực hành\Searching and Sort\Searching and Sort\obj\Debug\netcoreapp3.1\Searching and Sort.dll
+C:\Users\ADMIN\Desktop\Huy Hiệu\Bài tập thực hành\Searching and Sort\Searching and Sort\obj\Debug\netcoreapp3.1\Searching and Sort.pdb
+C:\Users\ADMIN\Desktop\Huy Hiệu\Bài tập thực hành\Searching and Sort\Searching and Sort\obj\Debug\netcoreapp3.1\Searching and Sort.genruntimeconfig.cache
