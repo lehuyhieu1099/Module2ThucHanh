@@ -56,7 +56,7 @@ namespace Searching_and_Sort
                     Console.WriteLine();
                     Console.WriteLine("Enter number to find: ");
                     int number = int.Parse(Console.ReadLine());
-                    Console.WriteLine($"{number} at {array.Find(arr, number)}");
+                    Console.WriteLine($"Index is: {array.Find(arr, number)}");
                     Console.WriteLine();
                     break;
                 case "5":
